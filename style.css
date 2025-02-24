@@ -36,6 +36,7 @@ nav .btn-secondary{
     height: 30rem !important;
     text-align: center;
     padding: 30px;
+    background-color: #036457 !important;
 }
 
 
@@ -44,12 +45,25 @@ nav .btn-secondary{
     height: 50px;
 }
 
-#formation .card{
+#formation .color{
     height: 30rem !important;
     text-align: center;
     padding: 30px;
+    background-color: #036457 !important;
 }
 
 #formation .programme{
     display: inline-block;
+}
+
+#cours img{
+    width: 100px;
+    height: 100px;
+    margin: 40px 60px;
+}
+.border{
+    height: 15rem !important;
+    width: 20rem;
+    border-radius: 20px;
+    margin: 5px;
 }
