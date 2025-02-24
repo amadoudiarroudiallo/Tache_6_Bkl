@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav img{
+    width: 90px;
+    height: 90px;
+}
+
+nav  .nav-link{
+    color: black;
+}
+
+nav  .nav-link:hover{
+    color: orange;
+}
+
+nav ion-icon{
+    margin-left: 30px;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+nav .btn-secondary{
+    background-color: orange !important;
+    border: none !important;
+    width: 10rem;
+    height: 3rem;
+    font-size: 20px !important;
+    margin-left: 20%;
+}
+
+.sec1 .card{
+    height: 30rem !important;
+    text-align: center;
+    padding: 30px;
+}
+
+
+#formation img{
+    width: 50px;
+    height: 50px;
+}
+
+#formation .card{
+    height: 30rem !important;
+    text-align: center;
+    padding: 30px;
+}
+
+#formation .programme{
+    display: inline-block;
+}
