@@ -61,7 +61,7 @@ nav .btn-secondary{
     height: 100px;
     margin: 40px 60px;
 }
-.border{
+#cours .border{
     height: 15rem !important;
     width: 20rem;
     border-radius: 20px;
@@ -79,4 +79,25 @@ nav .btn-secondary{
 
 #diplome .imag{
     width: 100%; 
+}
+
+
+
+#coachs .btn{
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+#coachs img{
+    width: 60% !important;
+    margin: 20px 60px;
+}
+
+
+#coachs .border{
+    background-color: grey;
+    width: 20px !important;
+    height: 20px;
+    border-radius: 100%;
+    margin-left: 50px;
 }
