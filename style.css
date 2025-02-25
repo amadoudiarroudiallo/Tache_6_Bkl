@@ -67,3 +67,16 @@ nav .btn-secondary{
     border-radius: 20px;
     margin: 5px;
 }
+
+.part1 img{
+    width: 50px;
+    height: 50px;
+}
+
+#diplome .container-fluid{
+    background-color: #f44236 !important;
+}
+
+#diplome .imag{
+    width: 100%; 
+}
