@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    
 }
 
 nav img{
@@ -81,8 +82,6 @@ nav .btn-secondary{
     width: 100%; 
 }
 
-
-
 #coachs .btn{
     justify-content: center !important;
     align-items: center !important;
@@ -101,3 +100,29 @@ nav .btn-secondary{
     border-radius: 100%;
     margin-left: 50px;
 }
+
+#activite{
+    background-color: #f44236 !important;
+    
+}
+
+#paetenaire .container-fluid{
+    background-color: #EEF9F8E5;
+}
+
+#footer{
+    background: #009688 ;
+    color: #fff;
+}
+
+#footer .container a{
+    text-decoration: none;
+    color: #fff;
+}
+
+#footer ion-icon{
+    width: 2rem;
+    height: 2rem;
+    margin-left: 20px;
+}
+
