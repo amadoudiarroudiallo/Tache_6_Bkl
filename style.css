@@ -107,6 +107,12 @@ nav .btn-secondary{
     
 }
 
+#activite img{
+    width: 60% !important;
+    height: 60% !important;
+}
+
+
 #paetenaire .container-fluid{
     background-color: #EEF9F8E5;
 }
